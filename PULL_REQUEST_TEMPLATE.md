@@ -1,5 +1,4 @@
-Ticket [JIRA-CODE](link)
-
+Ticket [DEV-XXXX](https://fairhq.atlassian.net/browse/DEV-XXXX)
 ---
 
 **Description**
