@@ -7,3 +7,8 @@ See [UAT list](https://www.notion.so/fairhq/Acceptance-Release-Testing-f527d1456
 
 
 ## Changes in detail, screenshots, risks, anything else to add?
+
+
+## Which areas of the product are these changes impacting? What is their level of complexity, and what else could be impacted?
+
+## How can these changes be tested?
