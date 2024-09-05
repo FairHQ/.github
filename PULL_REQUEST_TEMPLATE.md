@@ -1,14 +1,25 @@
-Ticket [DEV-XXXX](https://fairhq.atlassian.net/browse/DEV-XXXX)
----
+## Purpose
+<sub>Why this change is necessary</sub>
 
-See [UAT list](https://www.notion.so/fairhq/Acceptance-Release-Testing-f527d1456b0946c9ab2d796198ef0c13) for testing reminders.
-
-## Description
-
-
-## Changes in detail, screenshots, risks, anything else to add?
+## Implementation
+<sub>Description of the implemented solution</sub>
 
 
-## Which areas of the product are these changes impacting? What is their level of complexity, and what else could be impacted?
+## Key changes
+<sub>Bullet points of key changes</sub>
 
-## How can these changes be tested?
+
+## Limitations and trade-offs
+<sub>[List any known limitations or trade-offs in the current implementation]</sub>
+
+
+## Impact
+<sub>Brief note on affected areas</sub>
+
+
+## Testing
+<sub> [Summary of testing done]</sub>
+
+
+
+## Anything else ie. chnages to be made outside code, deployment considerations...?
