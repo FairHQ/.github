@@ -1,7 +1,4 @@
-## Purpose
-
-
-## Implementation
+## Description
 
 
 ## Key changes
@@ -13,7 +10,7 @@
 ## Affected areas / impact
 
 
-## Testing done
+## Tests done
 
 
 ## Anything else ie. changes to be made outside code, deployment considerations...?
